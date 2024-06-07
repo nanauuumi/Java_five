@@ -74,6 +74,7 @@ public class method {
          double average = Arrays.stream(nums).average().getAsDouble();
          
          System.out.println(average);
+         System.out.println();
          } 
 	 }
 }
